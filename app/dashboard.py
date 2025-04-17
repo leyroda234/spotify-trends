@@ -3,7 +3,12 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load Tito Double P's dataset
-df = pd.read_csv('tito_double_p_tracks.csv')
+import os
+
+dirname = os.path.dirname(__file__)
+csv_path = os.path.join(dirname, 'tito_double_p_tracks.csv')
+
+df = pd.read_csv(csv_path)
 df['release_date'] = pd.to_datetime(df['release_date'], errors='coerce')
 df['release_year'] = df['release_date'].dt.year
 

@@ -1,0 +1,451 @@
+name,artist,popularity,release_date,genre
+Die With A Smile,Lady Gaga,100,2024-08-16,pop
+Antologia,Shakira,83,1995-10-06,pop
+BIRDS OF A FEATHER,Billie Eilish,99,2024-05-17,pop
+LUNA,Feid,89,2023-12-01,pop
+Me Dediqué a Perderte,Alejandro Fernández,82,2004-09-01,pop
+Soltera,Shakira,85,2024-09-25,pop
+En algún lugar,Duncan Dhu,81,1987-01-17,pop
+"Ciega, Sordomuda",Shakira,82,1998-09-29,pop
+Dia de Enero,Shakira,81,2005-06-03,pop
+Según Quién,Maluma,82,2023-08-25,pop
+Mónaco,LAGOS,79,2021-05-28,pop
+Borro Cassette,Maluma,85,2015-10-30,pop
+Tiroteo - Remix,Marc Seguí,83,2021-04-01,pop
+Que Lloro,Sin Bandera,81,2003-10-01,pop
+Dile,Don Omar,84,2003-01-01,pop
+Salió El Sol,Don Omar,83,2006-01-01,pop
+Ella Y Yo - Featuring Don Omar,Aventura,84,2005-04-26,pop
+MOJABI GHOST,Tainy,83,2023-06-29,pop
+Todo Cambió,Camila,81,2006,pop
+WILDFLOWER,Billie Eilish,96,2024-05-17,pop
+Hawái,Maluma,83,2020-08-21,pop
+El Perdedor,Maluma,83,2015-10-30,pop
+La Old Skul,Rauw Alejandro,82,2021-12-10,pop
+LOKERA,Rauw Alejandro,83,2023-01-24,pop
+Hips Don't Lie (feat. Wyclef Jean),Shakira,88,2005-11-28,pop
+"One Of The Girls (with JENNIE, Lily Rose Depp)",The Weeknd,93,2023-06-23,pop
+Locked out of Heaven,Bruno Mars,91,2012-12-07,pop
+"Good Luck, Babe!",Chappell Roan,95,2024-04-05,pop
+Yellow,Coldplay,92,2000-07-10,pop
+As It Was,Harry Styles,90,2022-05-20,pop
+Me Rehúso,Danny Ocean,83,2019-03-22,pop
+"Quevedo: Bzrp Music Sessions, Vol. 52",Bizarrap,83,2022-07-06,pop
+"Cuatro Babys (feat. Trap Capos, Noriel, Bryant Myers & Juhn)",Maluma,83,2016-10-07,pop
+CHIHIRO,Billie Eilish,90,2024-05-17,pop
+Feel It - From “Invincible”,d4vd,91,2024-03-28,pop
+Propuesta Indecente,Romeo Santos,83,2014-02-25,pop
+Take on Me,a-ha,88,1985-06-01,pop
+Desconocidos,Mau y Ricky,80,2019-05-03,pop
+Flowers,Miley Cyrus,89,2023-08-18,pop
+Just the Way You Are,Bruno Mars,89,2010-05-11,pop
+Chantaje (feat. Maluma),Shakira,84,2017-05-26,pop
+Orion,Boza,82,2024-05-29,pop
+Se Preparó,Ozuna,83,2017-08-25,pop
+Los Infieles,Aventura,82,2006-12-19,pop
+Everybody Wants To Rule The World,Tears For Fears,88,1985-02-25,pop
+Sweater Weather,The Neighbourhood,92,2013-04-22,pop
+Give Me Everything (feat. Nayer),Pitbull,90,2011-06-17,pop
+Feliz Cumpleaños Ferxxo,Feid,82,2022-09-14,pop
+Sign of the Times,Harry Styles,87,2017-05-12,pop
+Eres Mía,Romeo Santos,82,2014-02-25,pop
+Viento,Caifanes,79,1988-05-15,rock
+Brillas,León Larregui,79,2012-01-01,rock
+En algún lugar,Duncan Dhu,81,1987-01-17,rock
+Afuera,Caifanes,79,1994,rock
+Labios Rotos - En Vivo Desde México / 2010,Zoé,79,2011-01-01,rock
+Locos,León Larregui,78,2016-03-11,rock
+La Célula Que Explota,Caifanes,77,1990-06-19,rock
+Hasta la Raíz,Natalia Lafourcade,81,2015-11-13,rock
+Es Por Ti,Juanes,81,2002-01-01,rock
+No Dejes Que...,Caifanes,77,1992-06-08,rock
+Lamento Boliviano,Los Enanitos Verdes,82,1994-01-01,rock
+Every Breath You Take,The Police,92,1983-06-17,rock
+Oye Mi Amor,Maná,81,1992,rock
+Rosas,La Oreja de Van Gogh,81,2003,rock
+Soñé - En Vivo,Zoé,77,2011-01-01,rock
+Luna - En Vivo,Zoé,77,2011-01-01,rock
+Eres,Café Tacvba,78,2003-07-01,rock
+Devuélveme a mi chica,Hombres G,79,1985,rock
+Amargo Adiós,Inspector,76,2002-07-30,rock
+El Sol No Regresa,La Quinta Estacion,79,2004-03-02,rock
+Creep,Radiohead,90,1993-02-22,rock
+Me Voy,Julieta Venegas,79,2006-05-25,rock
+I Wanna Be Yours,Arctic Monkeys,93,2013-09-09,rock
+La flaca,Jarabe De Palo,79,1996,rock
+Safe and Sound,Capital Cities,87,2013-06-04,rock
+Arrullo De Estrellas,Zoé,74,2013-01-01,rock
+Los Malaventurados No Lloran,PXNDX,76,2006-02-10,rock
+Luz De Dia,Los Enanitos Verdes,76,1999-01-01,rock
+Sabor a Chocolate,Elefante,73,2002-08-30,rock
+Así Es la Vida,Elefante,74,2001-10-23,rock
+Kumbala,Maldita Vecindad Y Los Hijos Del 5to. Patio,73,1991-08-13,rock
+Rayando el Sol,Maná,77,1990-07-02,rock
+On Melancholy Hill,Gorillaz,85,2010-03-03,rock
+Pumped Up Kicks,Foster The People,87,2011-05-23,rock
+Everybody Wants To Rule The World,Tears For Fears,88,1985-02-25,rock
+La Playa,La Oreja de Van Gogh,78,2000-09-07,rock
+Caraluna,Bacilos,79,2002-06-25,rock
+Sweater Weather,The Neighbourhood,92,2013-04-22,rock
+La Muralla Verde,Los Enanitos Verdes,76,1986-11-20,rock
+Sweet Child O' Mine,Guns N' Roses,88,1987-07-21,rock
+Cruz de Navajas,Mecano,75,1986-06-16,rock
+Feel Good Inc.,Gorillaz,89,2005-05-23,rock
+We Are The People,Empire Of The Sun,86,2008-10-03,rock
+I Was Made For Lovin' You,KISS,85,1979-03-23,rock
+Clavado en Un Bar,Maná,78,1997,rock
+Los Dioses Ocultos,Caifanes,72,1990-06-19,rock
+Have You Ever Seen The Rain,Creedence Clearwater Revival,86,1970-12-07,rock
+Stressed Out,Twenty One Pilots,87,2015-05-15,rock
+Perfecta,Miranda!,75,2008-04-01,rock
+Do I Wanna Know?,Arctic Monkeys,89,2013-09-09,rock
+Hope,XXXTENTACION,84,2018-03-16,hip hop
+HOPE,NF,69,2023-02-16,hip hop
+HOPE,NF,72,2023-04-07,hip hop
+Hopeless Romantic (feat. Swae Lee),Wiz Khalifa,68,2018-07-13,hip hop
+The Hop,A Tribe Called Quest,65,1996-07-30,hip hop
+Hip Hop Hooray,Naughty By Nature,71,1993-02-23,hip hop
+Hip Hop Motriz,Oscar Lee,46,2020-02-04,hip hop
+Hope,Neutro Shorty,50,2020-12-11,hip hop
+CLYDE (I Hope at Least One of My Ex-Girlfriends Hears This),$uicideboy$,73,2015-11-03,hip hop
+Hope,XXXTENTACION,55,2019-09-06,hip hop
+Hip Hop (Caminaré),Santa Fe Klan,45,2019-06-26,hip hop
+El Sonido de Campanas,Oscar Lee,55,2020-02-04,hip hop
+Hopes & Dreams,Wiz Khalifa,49,2011-03-29,hip hop
+Hop Off A Jet (feat. Travis Scott),Young Thug,55,2019-12-20,hip hop
+HAPPY,NF,75,2023-04-07,hip hop
+RUNNING,NF,72,2023-04-07,hip hop
+The Hopeless Romantic (feat. Action Bronson),The Alchemist,55,2018-06-01,hip hop
+Still D.R.E.,Dr. Dre,55,2008-01-01,hip hop
+HOP ON DA SHOW,tlinh,61,2024-09-18,hip hop
+Hopeless Romantic (feat. Swae Lee),Wiz Khalifa,41,2018-06-21,hip hop
+Sab Hop,Sabino,32,2016-05-20,hip hop
+Hopeless Romantic,Meghan Trainor,40,2017-05-12,hip hop
+Hope,XXXTENTACION,44,2021-02-12,hip hop
+HOP OUT THE VAN,Offset,46,2023-10-13,hip hop
+CAREFUL,NF,67,2023-04-07,hip hop
+Hope (feat. Ty Dolla $ign),Wiz Khalifa,38,2014-08-19,hip hop
+Mi Sangre Derramada Sobre el Hip Hop,Alemán,40,2021-11-18,hip hop
+MISTAKE,NF,68,2023-04-07,hip hop
+MOTTO,NF,65,2023-04-07,hip hop
+Ghost,Oscar Lee,46,2020-02-04,hip hop
+Hope - Freestyle,XXXTENTACION,37,2019-09-06,hip hop
+Hopes & Dreams (feat. Nipsey Hussle),Wiz Khalifa,40,2021-03-26,hip hop
+Hope,XXXTENTACION,41,2021-01-22,hip hop
+GONE,NF,66,2023-04-07,hip hop
+Hip-Hop Hasta la Tumba,Maniako,48,2018-02-13,hip hop
+PANDEMONIUM,NF,62,2023-04-07,hip hop
+Ice Ice Baby,Vanilla Ice,73,2008-11-04,hip hop
+Hope We Meet Again (feat. Chris Brown),Pitbull,34,2012,hip hop
+Hope - Instrumental,XXXTENTACION,37,2019-09-06,hip hop
+Hope,XXXTENTACION,40,2021-04-30,hip hop
+Hope,XXXTENTACION,38,2021-01-22,hip hop
+Durmiendo Con Serpientes,Lirika Inverza,29,2024-02-13,hip hop
+Hope,XXXTENTACION,37,2021-04-16,hip hop
+LET EM PRAY,NF,59,2023-04-07,hip hop
+Hip Hop,Kodigo 36,26,2010-03-01,hip hop
+Hope We Meet Again (feat. Chris Brown),Pitbull,23,2012-11-16,hip hop
+Hope,XXXTENTACION,37,2022-03-25,hip hop
+Hip Hop Is Dead,Nas,49,2007-01-23,hip hop
+Hip Hop Makerz,Guerreros del Bajo,32,2017,hip hop
+Hip Hop,Mos Def,56,1999-10-12,hip hop
+Let Me Love You,DJ Snake,88,2016-08-05,edm
+Titanium (feat. Sia),David Guetta,85,2012-12-07,edm
+Wake Me Up,Avicii,69,2013-09-16,edm
+Summer,Calvin Harris,87,2014-10-31,edm
+Outside (feat. Ellie Goulding),Calvin Harris,87,2014-10-31,edm
+Feel So Close - Radio Edit,Calvin Harris,86,2012-10-29,edm
+Firestone,Kygo,81,2016-05-13,edm
+Blame (feat. John Newman),Calvin Harris,83,2014-10-31,edm
+I'm Good (Blue),David Guetta,88,2022-08-26,edm
+Middle,DJ Snake,79,2016-08-05,edm
+Latch,Disclosure,83,2013-06-03,edm
+Waiting For Love,Avicii,83,2015-10-02,edm
+The Nights,Avicii,86,2014-01-01,edm
+Sexy Bitch (feat. Akon),David Guetta,82,2010-11-22,edm
+Perdoname (feat. DyCy & Adrian Delgado),Deorro,70,2014-12-02,edm
+Lean On,Major Lazer,78,2015-06-01,edm
+El Merengue,Marshmello,76,2023-03-03,edm
+El Merengue,Marshmello,77,2023-11-03,edm
+Stole the Show,Kygo,81,2016-05-13,edm
+In My Mind,Dynoro,80,2018-06-08,edm
+Don't You Worry Child - Radio Edit,Swedish House Mafia,83,2012-09-14,edm
+Happier,Marshmello,85,2018-08-17,edm
+Memories (feat. Kid Cudi),David Guetta,81,2010-11-22,edm
+My Kind of Woman,Mac DeMarco,84,2012-10-16,edm
+Levels - Radio Edit,Avicii,83,2011-10-28,edm
+One Kiss (with Dua Lipa),Calvin Harris,82,2018-04-06,edm
+Are You With Me,Lost Frequencies,82,2016-10-21,edm
+Moth To A Flame (with The Weeknd),Swedish House Mafia,82,2022-04-15,edm
+My Way,Calvin Harris,82,2024-08-08,edm
+Don't Be Shy,Tiësto,74,2021-08-12,edm
+Runaway (U & I),Galantis,78,2015-06-05,edm
+Play Hard (feat. Ne-Yo & Akon),David Guetta,78,2012-12-07,edm
+This Girl (Kungs Vs. Cookin' On 3 Burners),Kungs,81,2016-11-04,edm
+This Is What You Came For,Calvin Harris,80,2016-04-29,edm
+Chamber Of Reflection,Mac DeMarco,84,2014-04-01,edm
+It Ain't Me (with Selena Gomez),Kygo,81,2017-02-16,edm
+Reality,Lost Frequencies,80,2016-10-21,edm
+For the First Time,Mac DeMarco,84,2017-05-05,edm
+Leave Before You Love Me (with Jonas Brothers),Marshmello,81,2021-05-21,edm
+You & Me - Rivo Remix,Disclosure,83,2023-12-22,edm
+Ride It,Regard,79,2019-07-26,edm
+Sugar (feat. Francesco Yates),Robin Schulz,81,2015-09-25,edm
+Thank You (Not So Bad),Dimitri Vegas & Like Mike,85,2023-12-01,edm
+Scared to Be Lonely,Martin Garrix,78,2017-01-27,edm
+Hey Brother,Avicii,62,2013-09-16,edm
+Get Up (Rattle) [feat. Far East Movement] - Vocal Edit,Bingo Players,76,2012-12-08,edm
+In the Name of Love,Martin Garrix,81,2016-07-29,edm
+Without You (feat. Sandro Cavazza),Avicii,82,2017-08-10,edm
+Where Are Ü Now (with Justin Bieber),Jack Ü,77,2015-02-24,edm
+One Kiss (with Dua Lipa),Calvin Harris,79,2024-08-08,edm
+Si Antes Te Hubiera Conocido,KAROL G,93,2024-06-21,reggaeton
+LUNA,Feid,89,2023-12-01,reggaeton
+Es un Secreto,Plan B,83,2010-07-20,reggaeton
+LA CANCIÓN,J Balvin,87,2019-06-28,reggaeton
+Ojitos Lindos,Bad Bunny,85,2022-05-06,reggaeton
+Según Quién,Maluma,82,2023-08-25,reggaeton
+Borro Cassette,Maluma,85,2015-10-30,reggaeton
+Desenfocao',Rauw Alejandro,81,2021-12-10,reggaeton
+Dile,Don Omar,84,2003-01-01,reggaeton
+Salió El Sol,Don Omar,83,2006-01-01,reggaeton
+Virtual Diva,Don Omar,78,2009-01-01,reggaeton
+Vaquero - Remix,Bellakath,77,2024-08-08,reggaeton
+MOJABI GHOST,Tainy,83,2023-06-29,reggaeton
+Moscow Mule,Bad Bunny,84,2022-05-06,reggaeton
+Gata Only,FloyyMenor,89,2024-02-02,reggaeton
+Candy,Plan B,76,2013-09-14,reggaeton
+PERRO NEGRO,Bad Bunny,85,2023-10-13,reggaeton
+Otro Atardecer,Bad Bunny,82,2022-05-06,reggaeton
+No Me Conoce - Remix,JHAYCO,84,2019-05-24,reggaeton
+Efecto,Bad Bunny,82,2022-05-06,reggaeton
+Todo De Ti,Rauw Alejandro,82,2021-12-10,reggaeton
+Hawái,Maluma,83,2020-08-21,reggaeton
+TQG,KAROL G,83,2023-02-24,reggaeton
+AMARGURA,KAROL G,84,2023-02-24,reggaeton
+Si No Le Contesto,Plan B,79,2010-07-20,reggaeton
+QLONA,KAROL G,83,2023-08-10,reggaeton
+El Perdedor,Maluma,83,2015-10-30,reggaeton
+La Old Skul,Rauw Alejandro,82,2021-12-10,reggaeton
+LOKERA,Rauw Alejandro,83,2023-01-24,reggaeton
+Yo Quisiera,Reik,79,2005-03-02,reggaeton
+Me Porto Bonito,Bad Bunny,83,2022-05-06,reggaeton
+La Santa,Bad Bunny,81,2020-02-29,reggaeton
+PROVENZA,KAROL G,83,2023-02-24,reggaeton
+MI EX TENÍA RAZÓN,KAROL G,82,2023-08-10,reggaeton
+Perdóname,La Factoria,81,2006-12-04,reggaeton
+Tití Me Preguntó,Bad Bunny,85,2022-05-06,reggaeton
+LALA,Myke Towers,83,2023-03-23,reggaeton
+QUEMA,Ryan Castro,79,2024-05-10,reggaeton
+Me Rehúso,Danny Ocean,83,2019-03-22,reggaeton
+Permitame (feat. Yandel),Tony Dize,77,2009-11-09,reggaeton
+La Bebe - Remix,Yng Lvcas,80,2023-03-17,reggaeton
+Ojitos Chiquitos,Don Omar,79,2006-01-01,reggaeton
+"Cuatro Babys (feat. Trap Capos, Noriel, Bryant Myers & Juhn)",Maluma,83,2016-10-07,reggaeton
+Andrea,Bad Bunny,79,2022-05-06,reggaeton
+Por Que Te Demoras?,Plan B,78,2010-07-20,reggaeton
+Un Coco,Bad Bunny,80,2022-05-06,reggaeton
+Si Estuviésemos Juntos,Bad Bunny,80,2018-12-23,reggaeton
+Diles,Bad Bunny,81,2016-08-26,reggaeton
+Si Veo a Tu Mamá,Bad Bunny,79,2020-02-29,reggaeton
+Desconocidos,Mau y Ricky,80,2019-05-03,reggaeton
+A Mí,Rels B,83,2019-02-21,r&b
+lo que hay x aquí,Rels B,80,2023-03-09,r&b
+"One Of The Girls (with JENNIE, Lily Rose Depp)",The Weeknd,93,2023-06-23,r&b
+Rumores,Joan Sebastian,76,1997-08-28,r&b
+Tatuajes,Joan Sebastian,76,1996-02-09,r&b
+El Amar y el Querer,José José,76,1977-05-07,r&b
+Feel It - From “Invincible”,d4vd,91,2024-03-28,r&b
+Más Allá Del Sol,Joan Sebastian,75,2006-04-24,r&b
+Prisión De Amor,Los Tigres Del Norte,75,1999-01-01,r&b
+Amor Prohibido,Grupo Bryndis,75,1993-01-01,r&b
+Vamos a Darnos Tiempo,José José,74,1981-11-05,r&b
+Querer Querernos,Canserbero,78,2011-09-16,r&b
+cómo dormiste?,Rels B,79,2022-08-04,r&b
+Gavilán o Paloma,José José,74,1977-05-07,r&b
+Save Your Tears,The Weeknd,87,2020-03-20,r&b
+Sentimental,Joan Sebastian,74,2002-12-17,r&b
+Blinding Lights,The Weeknd,90,2020-03-20,r&b
+Ese Loco Soy Yo,Liberación,74,1993-01-01,r&b
+Un Idiota,Joan Sebastian,74,2000-04-05,r&b
+Almohada,José José,73,1980-08-25,r&b
+Ni Parientes Somos,Los Tigres Del Norte,75,2001-01-01,r&b
+Tu Traición,Grupo Bryndis,74,1995-01-01,r&b
+Lo Dudo,José José,73,1985-07-15,r&b
+Me Gustas,Joan Sebastian,74,2000-04-05,r&b
+Preso,José José,72,1981-11-05,r&b
+Te Irá Mejor Sin Mí,Joan Sebastian,73,2020-04-10,r&b
+Amor Limosnero,Joan Sebastian,73,2006-04-24,r&b
+Seremos,El Bebeto,72,2019-02-08,r&b
+Un Desperdicio,Rels B,74,2024-04-26,r&b
+"Ride Or Die, Pt. 2 (with Villano Antillano & Tokischa)",Sevdaliza,84,2024-04-18,r&b
+La Última Canción,Rels B,76,2020-12-26,r&b
+Lo Intentamos,Espinoza Paz,73,2009-06-01,r&b
+La Mesa Del Rincón,Los Tigres Del Norte,74,1994-01-01,r&b
+Starboy,The Weeknd,90,2016-11-25,r&b
+Por Dentro,Rels B,72,2023-11-23,r&b
+El Próximo Viernes,Espinoza Paz,73,2008-03-18,r&b
+Amor Regresa,Los Askis,71,2001-01-01,r&b
+Quiero Perderme Contigo,José José,71,1985-07-15,r&b
+Maquiavélico,Canserbero,76,2012-03-22,r&b
+Cómo Te Extraño Mi Amor,Leo Dan,74,1964-10-31,r&b
+Lo Legal,El Bebeto,69,2012-01-01,r&b
+Stupid Love Story,Canserbero,75,2012-12-31,r&b
+Secreto De Amor,Joan Sebastian,73,2000-04-05,r&b
+Directo Al Corazón,Los Tigres Del Norte,72,2005-01-01,r&b
+El Triste,José José,70,1970,r&b
+Pa' Que Retozen,Tego Calderón,80,2003-07-01,r&b
+Diséñame,Joan Sebastian,71,2012-05-22,r&b
+Titanium (feat. Sia),David Guetta,85,2012-12-07,r&b
+Tienes el Don,Rels B,71,2017-03-09,r&b
+Baila Más,Rels B,71,2016-09-25,r&b
+Si Antes Te Hubiera Conocido,KAROL G,93,2024-06-21,latin
+Antologia,Shakira,83,1995-10-06,latin
+LUNA,Feid,89,2023-12-01,latin
+Me Dediqué a Perderte,Alejandro Fernández,82,2004-09-01,latin
+Viento,Caifanes,79,1988-05-15,latin
+Es un Secreto,Plan B,83,2010-07-20,latin
+Brillas,León Larregui,79,2012-01-01,latin
+A Mí,Rels B,83,2019-02-21,latin
+Soltera,Shakira,85,2024-09-25,latin
+En algún lugar,Duncan Dhu,81,1987-01-17,latin
+Afuera,Caifanes,79,1994,latin
+LA CANCIÓN,J Balvin,87,2019-06-28,latin
+Las de la Intuición,Shakira,81,2005-06-03,latin
+Tu Falta De Querer,Mon Laferte,82,2015-08-21,latin
+Ojitos Lindos,Bad Bunny,85,2022-05-06,latin
+"Ciega, Sordomuda",Shakira,82,1998-09-29,latin
+Dia de Enero,Shakira,81,2005-06-03,latin
+Rosa Pastel,Belanova,80,2006,latin
+Labios Rotos - En Vivo Desde México / 2010,Zoé,79,2011-01-01,latin
+Locos,León Larregui,78,2016-03-11,latin
+Según Quién,Maluma,82,2023-08-25,latin
+La Célula Que Explota,Caifanes,77,1990-06-19,latin
+Borro Cassette,Maluma,85,2015-10-30,latin
+Mi Buen Amor,Mon Laferte,80,2017-04-27,latin
+Desenfocao',Rauw Alejandro,81,2021-12-10,latin
+Que Lloro,Sin Bandera,81,2003-10-01,latin
+Dile,Don Omar,84,2003-01-01,latin
+Hasta la Raíz,Natalia Lafourcade,81,2015-11-13,latin
+Inevitable,Shakira,81,1998-09-29,latin
+Salió El Sol,Don Omar,83,2006-01-01,latin
+Ella Y Yo - Featuring Don Omar,Aventura,84,2005-04-26,latin
+Virtual Diva,Don Omar,78,2009-01-01,latin
+Vaquero - Remix,Bellakath,77,2024-08-08,latin
+Es Por Ti,Juanes,81,2002-01-01,latin
+No Dejes Que...,Caifanes,77,1992-06-08,latin
+MOJABI GHOST,Tainy,83,2023-06-29,latin
+Lamento Boliviano,Los Enanitos Verdes,82,1994-01-01,latin
+Todo Cambió,Camila,81,2006,latin
+Moscow Mule,Bad Bunny,84,2022-05-06,latin
+Ahora Te Puedes Marchar,Luis Miguel,79,1987-07-15,latin
+Candy,Plan B,76,2013-09-14,latin
+PERRO NEGRO,Bad Bunny,85,2023-10-13,latin
+Corazón partío,Alejandro Sanz,80,1997,latin
+Oye Mi Amor,Maná,81,1992,latin
+Rosas,La Oreja de Van Gogh,81,2003,latin
+Otro Atardecer,Bad Bunny,82,2022-05-06,latin
+Soñé - En Vivo,Zoé,77,2011-01-01,latin
+Luna - En Vivo,Zoé,77,2011-01-01,latin
+Eres,Café Tacvba,78,2003-07-01,latin
+Devuélveme a mi chica,Hombres G,79,1985,latin
+Have You Ever Seen The Rain,Creedence Clearwater Revival,86,1970-12-07,country
+Fortunate Son,Creedence Clearwater Revival,84,1969-11-02,country
+Bad Moon Rising,Creedence Clearwater Revival,80,1969-08-03,country
+Fast Car,Luke Combs,85,2023-03-24,country
+Proud Mary,Creedence Clearwater Revival,75,1969-01-05,country
+Tennessee Whiskey,Chris Stapleton,86,2015-05-04,country
+Need You Now,Lady A,76,2010-01-01,country
+Green River,Creedence Clearwater Revival,74,1969-08-03,country
+Knockin' On Heaven's Door,Bob Dylan,83,1973-07-13,country
+Man! I Feel Like A Woman!,Shania Twain,75,1997,country
+Bad To The Bone,George Thorogood & The Destroyers,72,1982-01-01,country
+Down On The Corner,Creedence Clearwater Revival,73,1969-11-02,country
+Life is a Highway,Rascal Flatts,76,2006-01-01,country
+i was all over her,salvia palth,83,2013-05-06,country
+Cotton Fields,Creedence Clearwater Revival,69,1969-11-02,country
+forwards beckon rebound,Adrianne Lenker,81,2020-10-23,country
+Man! I Feel Like A Woman!,Shania Twain,74,1997-11-04,country
+You're Still The One,Shania Twain,77,1997,country
+Coward Of The County,Kenny Rogers,69,1979-10-10,country
+"not a lot, just forever",Adrianne Lenker,81,2020-10-23,country
+anything,Adrianne Lenker,83,2020-10-23,country
+Where the Wild Things Are,Luke Combs,85,2023-03-24,country
+Born On The Bayou,Creedence Clearwater Revival,70,1969-01-05,country
+When It Rains It Pours,Luke Combs,85,2017-06-02,country
+Your Man,Josh Turner,76,2006,country
+One Number Away,Luke Combs,77,2017-06-02,country
+Little Bitty,Alan Jackson,71,1996-09-30,country
+Like a Rolling Stone,Bob Dylan,78,1965-08-30,country
+Midnight Special,Creedence Clearwater Revival,68,1969-11-02,country
+Chattahoochee,Alan Jackson,58,1992-10-24,country
+Time in a Bottle,Jim Croce,76,1972-04-01,country
+Beautiful Crazy,Luke Combs,83,2018-06-01,country
+Ain't No Love In Oklahoma (From Twisters: The Album),Luke Combs,86,2024-05-16,country
+I Remember Everything (feat. Kacey Musgraves),Zach Bryan,88,2023-08-25,country
+Who'll Stop The Rain,Creedence Clearwater Revival,71,1970-07-24,country
+Old Time Rock & Roll,Bob Seger,76,1978-05-05,country
+Raindrops Keep Fallin' On My Head,B.J. Thomas,64,1968,country
+Need 2,Pinegrove,81,2015-10-15,country
+Run Through The Jungle,Creedence Clearwater Revival,71,1970-07-24,country
+Hurt,Johnny Cash,75,2002-01-01,country
+In Case You Didn't Know,Brett Young,76,2017-02-10,country
+The Gambler,Kenny Rogers,77,1978-11-20,country
+I Never Lie,Zach Top,85,2024-04-05,country
+(dream),salvia palth,78,2013-05-06,country
+You Should Probably Leave,Chris Stapleton,85,2020-11-13,country
+Pink Skies,Zach Bryan,87,2024-05-24,country
+Mississippi Queen,Mountain,69,1970,country
+Queen Of Hearts,Juice Newton,62,1981-01-01,country
+Good Time,Alan Jackson,69,2008-11-05,country
+Lookin' Out My Back Door,Creedence Clearwater Revival,70,1970-07-24,country
+Boogie Wonderland,"Earth, Wind & Fire",81,1979-06,jazz
+September,"Earth, Wind & Fire",84,1978-11-18,jazz
+Let's Groove,"Earth, Wind & Fire",82,1981-11-14,jazz
+Feeling Good,Michael Bublé,76,2005-02-08,jazz
+Algo contigo,Rita Payés,67,2019-05-17,jazz
+Sway,Michael Bublé,76,2003,jazz
+Killing Me Softly With His Song,Roberta Flack,77,1973-01-01,jazz
+September,"Earth, Wind & Fire",76,1978-11-23,jazz
+What A Wonderful World,Louis Armstrong,78,1968-01-01,jazz
+L-O-V-E,Nat King Cole,76,1965-01-11,jazz
+Just the Two of Us,"Grover Washington, Jr.",70,1980,jazz
+Amor y Control,Rubén Blades,63,1992,jazz
+Tenías Que Ser Tú,Silvana Estrada,60,2018-03-14,jazz
+I'd Rather Go Blind,Etta James,78,1968-04-18,jazz
+Feeling Good,Nina Simone,77,1965-06-01,jazz
+I Say a Little Prayer,Aretha Franklin,78,1968-06-14,jazz
+Hit the Road Jack,Ray Charles,73,2021-09-10,jazz
+Amor y Control,Rubén Blades,63,1991,jazz
+Llévame en un Beso,Paté de Fuá,56,2016-04-01,jazz
+La vie en rose - Single Version,Louis Armstrong,72,1952-04-01,jazz
+Hit the Road Jack,Ray Charles,70,2021-06-04,jazz
+Mi Corazón,Paté de Fuá,57,2014-04-01,jazz
+At Last,Etta James,78,1960,jazz
+Te Guardo,Silvana Estrada,58,2018-12-14,jazz
+Just the Two of Us (feat. Bill Withers),"Grover Washington, Jr.",77,1985,jazz
+Habits,Scott Bradlee's Postmodern Jukebox,65,2015-01-13,jazz
+Sabré Olvidar,Silvana Estrada,56,2018-12-14,jazz
+Home,Michael Bublé,73,2005-02-08,jazz
+Take Five,The Dave Brubeck Quartet,71,1959-12-14,jazz
+Fantasy,"Earth, Wind & Fire",67,1978-11-23,jazz
+Chan Chan,Buena Vista Social Club,73,1997-06-23,jazz
+Don't Know Why,Norah Jones,79,2002-02-26,jazz
+Everything,Michael Bublé,73,2007-04-27,jazz
+The Girl From Ipanema,Stan Getz,70,1964-03-01,jazz
+Unforgettable,Nat King Cole,71,1954-01-01,jazz
+Garota De Ipanema,Antônio Carlos Jobim,65,2007-06-20,jazz
+Lone Digger,Caravan Palace,58,2015-10-16,jazz
+My Baby Just Cares for Me (2013 - Remaster),Nina Simone,72,2013-08-27,jazz
+After the Love Has Gone,"Earth, Wind & Fire",69,1979-06,jazz
+Decisiones,Rubén Blades,63,1984-04-03,jazz
+Mas Que Nada - 2011 Rio Version,Sérgio Mendes,66,2011-01-01,jazz
+I Put A Spell On You,Nina Simone,70,1965-06-01,jazz
+Dos Gardenias,Buena Vista Social Club,66,1997-06-23,jazz
+"It's Been a Long, Long Time",Harry James,60,2008-10-29,jazz
+Beyond the Sea,Bobby Darin,72,1959,jazz
+Haven't Met You Yet,Michael Bublé,73,2009-10-06,jazz
+Time Moves Slow,BADBADNOTGOOD,70,2016-07-08,jazz
+Everybody Loves Somebody,Dean Martin,70,1964,jazz
+I've Got a Woman,Ray Charles,70,1957-01-01,jazz
+September,"Earth, Wind & Fire",66,2018-04-17,jazz
